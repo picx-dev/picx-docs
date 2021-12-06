@@ -1,0 +1,18 @@
+{
+  "name": "picx-docs",
+  "version": "0.0.1",
+  "description": "PicX Documents",
+  "scripts": {
+    "docs:dev": "vitepress dev docs --open",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  },
+  "main": "index.js",
+  "repository": "https://github.com/picx-dev/picx-docs",
+  "author": "XPoet",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "vitepress": "^0.20.1"
+  }
+}
