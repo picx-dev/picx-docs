@@ -1,0 +1,12 @@
+:root {
+    --c-brand: #4c86bf;
+    --c-brand-light: #60adbe;
+}
+
+.home-hero .title {
+    margin-top: 1.5rem !important;
+}
+
+.home-hero .tagline {
+    margin-top: 1rem !important;
+}

@@ -7,9 +7,8 @@
     "docs:build": "vitepress build docs",
     "docs:serve": "vitepress serve docs"
   },
-  "main": "index.js",
   "repository": "https://github.com/picx-dev/picx-docs",
-  "author": "XPoet",
+  "author": "PicX Dev Team",
   "license": "MIT",
   "private": true,
   "devDependencies": {
