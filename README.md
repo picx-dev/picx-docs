@@ -4,18 +4,17 @@
 
 # PicX 图床使用教程
 
-<a href="https://github.com/picx-dev/picx-docs/actions" target="_blank" rel="noopener noreferrer">
-<img src="https://github.com/picx-dev/picx-docs/workflows/deploy/badge.svg" alt="Github Actions Deploy">
-</a>
-
 [PicX](https://picx.xpoet.cn) 是一款基于 GitHub API & jsDelivr 开发的具有全球 CDN 加速功能的图床管理工具。
 
 🆓 免费  🏆 稳定  🚀 极速  🔒 安全
 
+- **[在线使用](https://picx.xpoet.cn)**
+
 - **[官方教程](https://picx-docs.xpoet.cn)**
 
-- **[开始使用](https://picx.xpoet.cn)**
-
+<a href="https://github.com/picx-dev/picx-docs/actions" target="_blank" rel="noopener noreferrer">
+<img src="https://github.com/picx-dev/picx-docs/workflows/deploy/badge.svg" alt="Github Actions Deploy">
+</a>
 
 ## License
 
