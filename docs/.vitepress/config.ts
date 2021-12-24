@@ -22,6 +22,7 @@ export default {
 
     sidebar: {
       '/tutorial/': [
+        { text: '快速开始', link: '/tutorial/get-start' },
         { text: '图床配置', link: '/tutorial/config' },
         { text: '上传图片', link: '/tutorial/upload' },
         { text: '图床管理', link: '/tutorial/management' },
