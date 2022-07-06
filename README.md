@@ -4,7 +4,7 @@
 
 # PicX 图床使用教程
 
-[PicX](https://picx.xpoet.cn) 是一款基于 GitHub API & jsDelivr 开发的具有全球 CDN 加速功能的图床管理工具。
+[PicX](https://picx.xpoet.cn) 是一款基于 GitHub API 开发的图片外链具有 CDN 加速功能的图床管理工具。
 
 🆓 免费  🏆 稳定  🚀 极速  🔒 安全
 
