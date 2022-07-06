@@ -6,7 +6,7 @@
 
 > 点击链接 https://github.com/new 快速新建仓库
 
-![](https://cdn.jsdelivr.net/gh/XPoet/image-hosting@master/PicX/image.j1486dtk68n.png)
+![](https://cdn.staticaly.com/gh/XPoet/image-hosting@master/PicX/image.j1486dtk68n.png)
 
 <br>
 
@@ -16,11 +16,11 @@
 
 > 点击链接 https://github.com/settings/tokens/new 快速新建 Token
 
-![](https://cdn.jsdelivr.net/gh/XPoet/image-hosting@master/PicX/image.lpt1xl9fu.png)
+![](https://cdn.staticaly.com/gh/XPoet/image-hosting@master/PicX/image.lpt1xl9fu.png)
 
 **注意：新生成的 Token 只会显示一次，请妥善保存，如有遗失，重新生成即可。**
 
-![](https://cdn.jsdelivr.net/gh/XPoet/image-hosting@master/PicX/image.pzmcp6b80fk.png)
+![](https://cdn.staticaly.com/gh/XPoet/image-hosting@master/PicX/image.pzmcp6b80fk.png)
 
 <br>
 
@@ -37,15 +37,15 @@ PicX 图床 **无需下载与安装**，只需用浏览器（建议 Chrome 或 E
 
 1. 填写 Token，自动获取该用户下的仓库。
 
-   ![](https://cdn.jsdelivr.net/gh/XPoet/image-hosting@master/PicX/image.4g8q5m7c8sq0.png)
+   ![](https://cdn.staticaly.com/gh/XPoet/image-hosting@master/PicX/image.4g8q5m7c8sq0.png)
 
 2. 在仓库的下拉列表中，选择一个作为图床的仓库。
 
-   ![image](https://cdn.jsdelivr.net/gh/XPoet/image-hosting@master/PicX/image.746g75olruk0.png)
+   ![image](https://cdn.staticaly.com/gh/XPoet/image-hosting@master/PicX/image.746g75olruk0.png)
 
 3. 选择一种目录方式（目录即仓库里存放图片的文件夹）。
 
-   ![](https://cdn.jsdelivr.net/gh/XPoet/image-hosting@master/PicX/image.5ydmhgxjhgo0.png)
+   ![](https://cdn.staticaly.com/gh/XPoet/image-hosting@master/PicX/image.5ydmhgxjhgo0.png)
 
     - 新建目录：需手动输入一个新目录。  
       使用 `/` 可创建多级目录，例如：`A01/A02` 表示创建了二级目录，最大支持创建三级目录。
@@ -66,7 +66,7 @@ PicX 图床 **无需下载与安装**，只需用浏览器（建议 Chrome 或 E
   粘贴图片时，需先点击一下**激活**上传区域，如下图，**上传区域的虚线边框变成墨蓝色，表示已激活，此时粘贴图片才会生效**。  
   支持通过键盘快捷键进行粘贴（`ctrl + v` / `command + v`）。
 
-  ![](https://cdn.jsdelivr.net/gh/XPoet/image-hosting@master/PicX/image.6wfw84e4xlw0.png)
+  ![](https://cdn.staticaly.com/gh/XPoet/image-hosting@master/PicX/image.6wfw84e4xlw0.png)
 
 - 点击上传区域，然后通过 **选择文件夹图片** 到上传区域进行上传。
 
@@ -80,4 +80,4 @@ PicX 图床 **无需下载与安装**，只需用浏览器（建议 Chrome 或 E
 - 点击 `CDN` 按钮复制 CDN 图片外链（推荐）。
 
 
-![image](https://cdn.jsdelivr.net/gh/XPoet/image-hosting@master/PicX/image.6943gfrxo2k0.webp)
+![image](https://cdn.staticaly.com/gh/XPoet/image-hosting@master/PicX/image.6943gfrxo2k0.webp)

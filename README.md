@@ -1,5 +1,5 @@
 <a href="https://github.com/XPoet/picx" >
-<img width="100" align="right" alt="PicX" src="https://cdn.jsdelivr.net/gh/XPoet/image-hosting@master/PicX/picx-logo.png">
+<img width="100" align="right" alt="PicX" src="https://cdn.staticaly.com/gh/XPoet/image-hosting@master/PicX/picx-logo.png">
 </a>
 
 # PicX 图床使用教程
